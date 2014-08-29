@@ -1,0 +1,7 @@
+* Function with no arguments
+* Function with arguments
+
+* Retun <Simple>: string, number, date
+* Return list of <Simple>
+* Return dictionary/object of <Simple>
+* Return list of dictionary
